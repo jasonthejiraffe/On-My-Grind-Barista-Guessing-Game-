@@ -13,7 +13,7 @@ Node.js, Visual Studio Code
 ## Authors
 
 Jason Lockett  
-ex. [School Email](jlockett2020@fau.edu)
+School Email - jlockett2020@fau.edu
 
 ## Version History
 
