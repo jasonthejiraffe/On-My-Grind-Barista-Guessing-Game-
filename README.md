@@ -22,4 +22,4 @@ ex. [School Email](jlockett2020@fau.edu)
 
 ## Acknowledgments
 
-* Codepath.org (WEB102 - Intermediate Web Development
+* Codepath.org (WEB102 - Intermediate Web Development)
