@@ -12,8 +12,6 @@ Node.js, Visual Studio Code
 
 ## Authors
 
-Contributors names and contact info
-
 Jason Lockett  
 ex. [School Email](jlockett2020@fau.edu)
 
@@ -23,7 +21,5 @@ ex. [School Email](jlockett2020@fau.edu)
     * Initial Release
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
 
 * Codepath.org (WEB102 - Intermediate Web Development
